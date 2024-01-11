@@ -7,6 +7,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 Este projeto foi feito na aula do Discover, somente para fins de aprendizado. Créditos ao dono do projeto, grande Mayk Brito, professor nota infinito hehehe :D <br/> <br/>
 
 <a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito"> <p align="center">Estude esse projeto em formato de vídeo clicando aqui.</a>
+
 </p>
 
 <p align="center">
@@ -39,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://dmolvr.github.io/devlinks-aula-rocketseat/)
+- [Acesse o projeto finalizado, online](https://dmolvr.github.io/devlinks-aula-rocketseat-discover/)
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
